@@ -1,4 +1,4 @@
-$basePath = "C:\Apps\kafka"
+$basePath = "D:\Library\Applications\.tools\kafka"
 
 $zookeeper = @{
     "start" = ".\bin\windows\zookeeper-server-start.bat"
